@@ -1,0 +1,12 @@
+stop,0,Appleville,5,0.0,0.08
+stop,1,Banana Bayou,0,0.04,0.1
+stop,2,Star City,0,0.08,0.16
+stop,3,Cherry City,0,0.16,0.1
+stop,4,West Side,0,0.01,0.01
+stop,5,South Side,0,0.04,0.01
+stop,6,East Side,0,0.1,0.02
+stop,7,Central City,0,0.04,0.05
+route,0,10,Express,5,7,1,2,1,7,-1,-1,-1,-1
+route,1,16,Perimeter,4,0,1,2,3,6,5,-1,-1,-1
+bus,7,0,0,0,10,50
+bus,11,1,0,0,10,30
